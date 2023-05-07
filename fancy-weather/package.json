@@ -47,7 +47,7 @@
     "css-mqpacker": "^7.0.0",
     "cssnano": "^4.1.10",
     "del-cli": "^3.0.0",
-    "mapbox-gl": "^1.6.0",
+    "mapbox-gl": "^1.13.3",
     "node": "^13.3.0",
     "node-sass": "^4.13.0",
     "sass": "^1.23.7",
