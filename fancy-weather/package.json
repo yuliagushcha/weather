@@ -49,7 +49,7 @@
     "del-cli": "^3.0.0",
     "mapbox-gl": "^1.6.0",
     "node": "^13.3.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^8.0.0",
     "sass": "^1.23.7",
     "skycons": "^1.0.0",
     "webpack-dev-server": "^3.9.0"
